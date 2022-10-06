@@ -4,15 +4,22 @@
 <a href="https://github.com/archiereyes-vennbio" target="blank" >
 Archie Reyes</a>
 <h4 align="center" style="margin:5px">Senior Software Engineer</h4>
-</h2>
+</h3>
 <h3></h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archiereyes-vennbio&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="center">
+<img src="https://img.shields.io/github/followers/archiereyes-vennbio?style=social" alt="archiereyes-vennbio" />
+<img src="https://img.shields.io/github/stars/archiereyes-vennbio?style=social" alt="archiereyes-vennbio" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=archiereyes-vennbio.repoName" alt="archiereyes-vennbio" />
+<img src="https://komarev.com/ghpvc/?username=archiereyes-vennbio&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="archiereyes-vennbio" />
+</p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
+
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently working in <a href="https://intervenn.com/" target="blank">Intervenn Bioscience</a>
 
@@ -64,6 +71,14 @@ Archie Reyes</a>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![styledomponents](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/archiereyes-vennbio">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=archiereyes-vennbio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 ---
 
